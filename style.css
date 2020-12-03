@@ -1,0 +1,12 @@
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+}
+#result{
+    margin-left: 800px;
+    margin-top: 4px;
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
